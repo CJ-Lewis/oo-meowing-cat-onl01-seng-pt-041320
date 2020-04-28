@@ -1,4 +1,9 @@
 ## code your solution here. 
-def Class
+class Cat
   
   attr_accessor :name
+  
+  def meow
+    puts "meow!"
+  end
+end
